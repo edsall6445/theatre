@@ -1,0 +1,16 @@
+H1 {
+  font-size : 30pt; 
+    color : Blue;
+
+}
+
+button {
+    background-color:red;
+    font-size: 14pt ; 
+    font-weight: bold;
+    border-style :ridge;
+    border-radius: 10%;
+    border-color : black;
+    color:antiquewhite ;
+
+}
